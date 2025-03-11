@@ -1,0 +1,36 @@
+table{
+    margin: 20px auto;
+    width: 50%;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(32, 216, 216);
+    }
+
+    body{
+
+        font-family: Arial, Helvetica, sans-serif, sans-serif;
+        background-color: rgb(189, 21, 21);
+        text-align: center;
+        margin: 0;
+        padding: 0%;
+    }
+
+    th{
+        background-color: blue;
+        color: white;
+        padding: 10px;
+    }
+    td{
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: left;
+            }
+
+    #erro{
+
+        color: red;
+    }
+
+    .linhas-pares{
+        background-color: gray;
+    }
