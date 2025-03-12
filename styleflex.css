@@ -1,0 +1,16 @@
+
+.flex{
+    display: flex;
+    justify-content: center;
+    gap:20px
+    border 1px solid black
+    height: 100vh;
+
+
+    /*flex-direction:column*/ ;
+}
+
+.filhos{
+    border: 1px solid black;
+    width: 300px;
+}
